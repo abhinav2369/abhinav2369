@@ -62,6 +62,7 @@
     <img width="2" />
 </div>
 
+<!---
 ## About Myself ➡️➡️
 - 👋 Hi, I’m **Abhinav Kumar.**
 - 👀 **I’m interested in Artificial Inteligence and Machine Learning.**
@@ -70,3 +71,4 @@
 - 📫 **How to reach me: Email me at - abhinavkumar2369@outlook.com**
 - 😄 **Pronouns: He/Him.**
 - ⚡ **Fun fact: I am very passionate about learning new and evolving technologies.**
+--->
