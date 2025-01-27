@@ -1,16 +1,20 @@
+<!-- Profile Name -->
 <div>
     <h1 align="center">Abhinav Kumar</h1>
 </div>
 
 
+<!-- This is with the non breaking space -->
 <div align="center">
-    <b>🌐 Web Developer</b> 
-    <b>📱 App Developer</b>
-    <b>🤖 AI Enthusiast</b>
+    <span><b>🌐&nbsp;Web&nbsp;Developer</b></span>
+    <span><b>📱&nbsp;App&nbsp;Developer</b></span>
+    <span><b>🤖&nbsp;AI&nbsp;Enthusiast</b></span>
 </div>
+
 
 <br/>
 
+<!-- Icons -->
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
     <img width="2" />
