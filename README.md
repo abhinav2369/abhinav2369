@@ -4,6 +4,9 @@
 </div>
 
 
+<!----------------------------------->
+
+
 <!-- This is with the non breaking space -->
 <div align="center">
     <span><b>🌐&nbsp;Web&nbsp;Developer</b></span>
@@ -12,6 +15,7 @@
 </div>
 
 
+<!----------------------------------->
 <br/>
 
 <!-- Icons -->
@@ -62,13 +66,57 @@
     <img width="2" />
 </div>
 
-<!---
+
+<!----------------------------------->
+
+
+
 ## About Myself ➡️➡️
-- 👋 Hi, I’m **Abhinav Kumar.**
+- 👋 Hi, there
 - 👀 **I’m interested in Artificial Inteligence and Machine Learning.**
-- 🌱 **I’m currently learning Web Development.**
-- 💞️ **I’m looking to collaborate AI and ML projects with startups.**
+- 🌱 **I’m currently learning `Web Development` & `App Development`.**
+- 💞️ **I’m looking to collaborate on `AI and ML projects`.**
 - 📫 **How to reach me: Email me at - abhinavkumar2369@outlook.com**
 - 😄 **Pronouns: He/Him.**
-- ⚡ **Fun fact: I am very passionate about learning new and evolving technologies.**
---->
+- ⚡ **Fun fact: `I am very passionate about learning new and evolving technologies`.**
+
+
+<!----------------------------------->
+
+
+## 📫 Contact & Social Media
+<div align="center">
+    <a href="mailto:abhinavkumar2369@outlook.com">
+        <img src="https://img.shields.io/badge/Outlook%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a/>
+    <!--- --->
+    <img width="4" />
+    <!--- --->
+    <a href="https://abhinavkumarofficial.com">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=darkgreen" />
+    </a>
+    <!--- --->
+    <img width="4" />
+    <!--- --->
+    <a href="https://www.linkedin.com/in/abhinavkumar2369">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <!--- --->
+    <img width="4" />
+    <!--- --->
+    <a href="https://github.com/abhinavkumar2369">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <!--- --->
+    <img width="4" />
+    <!--- --->
+    <a href="https://leetcode.com/abhinavkumar2369">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&color=darkorange"/>
+    </a>
+    <!--- --->
+    <img width="4" />
+    <!--- --->
+    <a href="https://twitter.com/abhinavkumar2369">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    </a>
+</div>
